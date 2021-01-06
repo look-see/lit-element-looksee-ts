@@ -1,0 +1,27 @@
+{
+  "name": "my-element-ts",
+  "version": "0.0.0",
+  "description": "A simple web component",
+  "main": "index.js",
+  "module": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "start:clean": "snowpack dev --reload",
+    "test": "looksee -u http://localhost:8080",
+    "test:watch": "looksee -w -u http://localhost:8080"
+  },
+  "keywords": [
+    "web-components",
+    "lit-element",
+    "typescript"
+  ],
+  "author": "my-name",
+  "license": "MIT",
+  "dependencies": {
+    "lit-element": "^2.4.0"
+  },
+  "devDependencies": {
+    "looksee": "^1.0.0-alpha.3",
+    "snowpack": "^3.0.0-rc.2"
+  }
+}
