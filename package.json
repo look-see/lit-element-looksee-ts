@@ -21,7 +21,7 @@
     "lit-element": "^2.4.0"
   },
   "devDependencies": {
-    "looksee": "^1.0.0-alpha.3",
+    "looksee": "^1.0.0-alpha.4",
     "snowpack": "^3.0.0-rc.2"
   }
 }
