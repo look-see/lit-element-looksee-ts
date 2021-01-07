@@ -82,7 +82,9 @@ npm run test:watch
 ```
 ***Make sure to start the dev server first.***
 
-***If you run the tests in watch mode, you can uncomment the single line comments in the test files and have another looksee on demand.***
+***If you run the tests in watch mode, you can uncomment the single line comments in the test files and have another looksee on demand:***
+
+<img src="./assets/looksee.gif" />
 
 ###### Copyright (c) 2021 Allan Mobley Jr. All rights reserved.
 ###### Licensed under the [MIT](./LICENSE) license.
